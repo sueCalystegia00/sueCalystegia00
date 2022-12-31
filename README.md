@@ -1,8 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sueCalystegia00&show_icons=true&theme=react" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sueCalystegia00&theme=react" />
-</a>
+<section align="center">
+  <a href="https://github.com/mizuki-n-2/github-readme-stats">
+    <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=sueCalystegia00&count_private=true&show_icons=true&theme=react" />
+  </a>
+  <a href="https://github.com/mizuki-n-2/github-readme-stats">
+    <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sueCalystegia00&layout=compact&theme=react&repo=github-readme-stats&langs_count=5" />
+  </a>  
+</section>
